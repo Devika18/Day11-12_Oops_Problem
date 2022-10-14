@@ -1,6 +1,6 @@
 
 
-package DeskOfCards;
+package DeckOfCards;
 import java.util.Random;
 public class Oops {
     public static String[] shuffleCardsDeck(String[] arr) {

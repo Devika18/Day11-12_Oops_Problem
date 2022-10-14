@@ -1,8 +1,8 @@
 //Program for shuffle and distribute card of deck
 
-package DeskOfCards;
+package DeckOfCards;
 
-public class CardOfDesk {
+public class CardOfDeck {
     public static void main(String[] args) {
 
         String[] cardType = { "Clubs", "Diamonds", "Hearts", "Spades" };
@@ -17,7 +17,7 @@ public class CardOfDesk {
             }
             j1 = 0;
             start = end + 1;
-            end += 13;
+            end = end + 13;
         }
 
         Oops.shuffleCardsDeck(cardsArray);
@@ -30,7 +30,7 @@ public class CardOfDesk {
             System.out.print("For Player " + i + ": \n");
             for (int j = 0; j < 9; j++) {
 
-                System.out.print(cardsArray[j2] + "-->");
+                System.out.print(cardsArray[j2] + " , ");
                 j2++;
             }
             System.out.println();
