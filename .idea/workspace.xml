@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e037adcd-cdbb-44b1-bbe4-2a0c9a2eee9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DeckOfCardsQueue/CardOfDeckQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountDebit/AccountBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AccountDebit/AccountMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/DairyMilk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/FiveStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Kitkat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/Munch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/OopsUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Other/StockModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeskOfCards/CardOfDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeckOfCards/CardOfDeck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DeskOfCards/Oops.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DeckOfCards/Oops.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,14 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/IdeaProjects/Day11_12_Oops_Program"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/Day11_12_Oops_Program&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.CardOfDeckQueue">
+}</component>
+  <component name="RunManager" selected="Application.AccountMain">
+    <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AccountDebit.AccountMain" />
+      <module name="Day11_12_Oops_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AccountDebit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CardOfDeckQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DeckOfCardsQueue.CardOfDeckQueue" />
       <module name="Day11_12_Oops_Program" />
@@ -69,6 +86,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.CardOfDeckQueue" />
         <item itemvalue="Application.CardOfDesk" />
       </list>
