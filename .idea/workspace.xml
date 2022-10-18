@@ -2,26 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e037adcd-cdbb-44b1-bbe4-2a0c9a2eee9e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/AccountDebit/AccountBalance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AccountDebit/AccountMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/DairyMilk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/FiveStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Kitkat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/Munch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/OopsUtility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Other/StockModel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockManager/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockManager/StockManagerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockManager/StockOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StockManager/Stocks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/DairyMilk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/FiveStar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/Kitkat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/Munch.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/OopsUtility.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Other/StockModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StockManagement/Day13_Practice_Problem/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StockManagement/Day13_Practice_Problem/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -44,7 +51,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/IdeaProjects/Day11_12_Oops_Program&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.AccountMain">
+  <component name="RunManager" selected="Application.StockManagerMain">
     <configuration name="AccountMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AccountDebit.AccountMain" />
       <module name="Day11_12_Oops_Program" />
@@ -84,8 +91,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StockManagerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StockManager.StockManagerMain" />
+      <module name="Day11_12_Oops_Program" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="StockManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StockManagerMain" />
         <item itemvalue="Application.AccountMain" />
         <item itemvalue="Application.CardOfDeckQueue" />
         <item itemvalue="Application.CardOfDesk" />
